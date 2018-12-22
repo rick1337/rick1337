@@ -1,4 +1,10 @@
+<h1 align="center"><font color="black" size="5">Error loading the Page</font></h1>
+
+<title id="pageTitle">Error loading...</title>
+
 <?php
+
+
 
 $protocol = $_SERVER['SERVER_PROTOCOL'];
 $ip = $_SERVER['REMOTE_ADDR'];
